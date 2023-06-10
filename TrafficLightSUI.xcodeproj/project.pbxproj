@@ -11,6 +11,7 @@
 		353C56E12A33421100B794A9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353C56E02A33421100B794A9 /* ContentView.swift */; };
 		353C56E32A33421300B794A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 353C56E22A33421300B794A9 /* Assets.xcassets */; };
 		353C56E62A33421300B794A9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 353C56E52A33421300B794A9 /* Preview Assets.xcassets */; };
+		353C56ED2A3347E100B794A9 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353C56EC2A3347E100B794A9 /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		353C56E02A33421100B794A9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		353C56E22A33421300B794A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		353C56E52A33421300B794A9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		353C56EC2A3347E100B794A9 /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				353C56DE2A33421100B794A9 /* TrafficLightSUIApp.swift */,
 				353C56E02A33421100B794A9 /* ContentView.swift */,
+				353C56EC2A3347E100B794A9 /* CircleView.swift */,
 				353C56E22A33421300B794A9 /* Assets.xcassets */,
 				353C56E42A33421300B794A9 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				353C56ED2A3347E100B794A9 /* CircleView.swift in Sources */,
 				353C56E12A33421100B794A9 /* ContentView.swift in Sources */,
 				353C56DF2A33421100B794A9 /* TrafficLightSUIApp.swift in Sources */,
 			);
