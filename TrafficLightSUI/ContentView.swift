@@ -16,7 +16,7 @@ struct ContentView: View {
     @State private var yellowIsOn = false
     @State private var greenIsOn = false
     
-    private var lightIsOff = 0.3
+    @State private var lightIsOff = 0.3
     
     var body: some View {
         ZStack {
